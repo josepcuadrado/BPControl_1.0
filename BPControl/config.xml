@@ -42,10 +42,8 @@
 	<gap:splash src="img/splash/ios/screen-ipad-portrait.png" gap:platform="ios" width="1024" height="768" />
 
 	<!-- Retina iPad -->
-	<gap:splash src="Default-Portrait@2x.png" gap:platform="ios" width="1536" height="2048" />
-	<gap:splash src="Default-Landscape@2x.png" gap:platform="ios" width="2048" height="1536" />
-	
-	
+	<gap:splash src="img/splash/ios/Default-Portrait@2x.png" gap:platform="ios" width="1536" height="2048" />
+	<gap:splash src="img/splash/ios/Default-Landscape@2x.png" gap:platform="ios" width="2048" height="1536" />
 	
 
 	<!--permisos-->
