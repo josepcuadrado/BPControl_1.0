@@ -59,16 +59,22 @@ body.loading .modal {
 
 #start_header{
 	display: block;
-	margin:auto;
-	padding-top:-20px;
-	height:70px;
+	padding-top: px;
+	height: 70px;
 	box-shadow: 0 0 20px 0 rgba(0,0,0,0.4);
-	background-image:-webkit-gradient(linear,left top,left bottom,from(#fdfdfd),to(#eee));
-	background-image:-webkit-linear-gradient(#fdfdfd,#eee);
-	background-image:-moz-linear-gradient(#fdfdfd,#eee);
-	background-image:-ms-linear-gradient(#fdfdfd,#eee);
-	background-image:-o-linear-gradient(#fdfdfd,#eee);
-	background-image:linear-gradient(#fdfdfd,#eee);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#fdfdfd),to(#eee));
+	background-image: -webkit-linear-gradient(#fdfdfd,#eee);
+	background-image: -moz-linear-gradient(#fdfdfd,#eee);
+	background-image: -ms-linear-gradient(#fdfdfd,#eee);
+	background-image: -o-linear-gradient(#fdfdfd,#eee);
+	background-image: linear-gradient(#fdfdfd,#eee);
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	padding-right: px;
+	padding-bottom: px;
+	padding-left: px;
 	}
 
 #bpc{
@@ -99,13 +105,15 @@ body.loading .modal {
 	}
 
 
-#slideshow { 
-	position:absolute;            
-    margin:auto;
+#slideshow {
+	position: absolute;
 	display: block;
-	margin-bottom:10px;
-    width: 100%; 
-	min-height:170px;
+	margin-bottom: 10px;
+	width: 100%;
+	min-height: 170px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
 }
 
 .zoom{
