@@ -124,6 +124,7 @@ body.loading .modal {
 	width: 90%;
 	max-width: 800px;
 	max-height: 660px;
+	vertical-align:middle;
 }
 
 #slideshow > div { 
