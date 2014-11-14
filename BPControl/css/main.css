@@ -81,6 +81,10 @@ body.loading .modal {
 	display: block;
 	margin: auto;
 	padding-top: 30px;
+	/* JOSEP CUADRADO  
+	padding-top: 20px;
+	border-radius: 10px;
+	*/
 	width: 230px;
 	height: 30px;
 	}
@@ -88,19 +92,20 @@ body.loading .modal {
 
 
 #zprive{
-	font-family:helvetica, sans-serif;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	border: 2px #ddd solid;
-    border-radius: 10px;
-    padding-left: 15px;
-	background:#800;
+	border-radius: 10px;
+	font-size:14px;
+	padding-left: 15px;
+	background: #800;
 	margin: 10px;
-	margin-top:30px;
-	color:#fff;
-	text-shadow:0 -1px 1px #000;
-	background-image:url(../img/botons/padlock_closed_icon&48.png);
-	background-size:30px 30px;
-	background-repeat:no-repeat;
-	background-position:90% 50%;
+	margin-top: 30px;
+	color: #fff;
+	text-shadow: 0 -1px 1px #000;
+	background-image: url(../img/botons/padlock_closed_icon&48.png);
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+	background-position: 90% 50%;
 	}
 
 
