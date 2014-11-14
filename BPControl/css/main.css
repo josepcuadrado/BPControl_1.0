@@ -121,9 +121,9 @@ body.loading .modal {
 }
 
 .zoom{
-	width:100%;
-	max-width:800px;
-	max-height:660px;
+	width: 90%;
+	max-width: 800px;
+	max-height: 660px;
 }
 
 #slideshow > div { 
