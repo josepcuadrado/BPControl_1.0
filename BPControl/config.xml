@@ -11,10 +11,12 @@
         Arterial presion control app
     </description>
 
-    <author href="" email="developer@hesoftgroup.eu">
+    <author href="http://www.hesoftgroup.eu" email="developer@hesoftgroup.eu">
        HESOFT GROUP, SCP
     </author>
 	
+	<gap:platform name="ios" />
+    <gap:platform name="android" />
 	
 	<!--icones-->	
 	
