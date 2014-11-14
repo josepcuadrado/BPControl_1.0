@@ -16,11 +16,11 @@
 
 
 .titol{
-	display:inline-block;
+	display: inline-block;
 	margin-left: 14px;
-	margin-top: 16px;
-	font-weight:bold;
-	color:#A00; 
+	margin-top: 30px;
+	font-weight: bold;
+	color: #A00;
 	}
 	
 .latbtne{
@@ -124,7 +124,10 @@ body.loading .modal {
 	width: 100%;
 	max-width: 800px;
 	max-height: 660px;
-	border-radius: 10px;
+	/* [disabled]border-top-left-radius: 10px; */
+	/* [disabled]border-top-right-radius: 10px; */
+	/* [disabled]border-bottom-right-radius: 10px; */
+	/* [disabled]border-bottom-left-radius: 10px; */
 }
 
 #slideshow > div { 
