@@ -92,10 +92,10 @@ body.loading .modal {
 
 
 #zprive{
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	border: 2px #ddd solid;
 	border-radius: 10px;
-	font-size:14px;
+	font-size: 20px;
 	padding-left: 15px;
 	background: #800;
 	margin: 10px;
