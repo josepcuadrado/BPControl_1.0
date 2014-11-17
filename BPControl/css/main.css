@@ -104,13 +104,14 @@ body.loading .modal {
 	}
 
 
-#slideshow { 
-	position:absolute;            
-    margin:auto;
+#slideshow {
+	position: absolute;
+	margin: auto;
 	display: block;
-	margin-bottom:10px;
-    width: 100%; 
-	min-height:170px;
+	margin-bottom: 10px;
+	width: 85%;
+	min-height: 170px;
+	text-align:center;
 }
 
 .zoom{
