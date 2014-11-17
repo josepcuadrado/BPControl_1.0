@@ -109,7 +109,7 @@ body.loading .modal {
 	margin: auto;
 	display: block;
 	margin-bottom: 10px;
-	width: 730px;
+	width: 90%;
 	min-height: 170px;
 	left: 21px;
 }
