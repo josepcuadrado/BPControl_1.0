@@ -109,9 +109,8 @@ body.loading .modal {
 	margin: auto;
 	display: block;
 	margin-bottom: 10px;
-	width: 85%;
+	width: 100%;
 	min-height: 170px;
-	text-align:center;
 }
 
 .zoom{
