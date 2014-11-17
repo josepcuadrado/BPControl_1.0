@@ -93,26 +93,26 @@ var m = Math,
 
 		// Default options
 		that.options = {
-			hScroll: true,
+			hScroll: false,
 			vScroll: true,
 			x: 0,
 			y: 0,
-			bounce: false,
-			bounceLock: false,
+			bounce: true,
+			bounceLock:false,
 			momentum: false,
 			lockDirection: true,
 			useTransform: true,
-			useTransition: false,
+			useTransition: true,
 			topOffset: 0,
 			checkDOMChanges: false,		// Experimental
 			handleClick: true,
 
 			// Scrollbar
-			hScrollbar: true,
-			vScrollbar: true,
-			fixedScrollbar: isAndroid,
-			hideScrollbar: isIDevice,
-			fadeScrollbar: isIDevice && has3d,
+			hScrollbar: false,
+			vScrollbar: false,
+			//fixedScrollbar: isAndroid,
+			//hideScrollbar: isIDevice,
+			//fadeScrollbar: isIDevice && has3d,
 			scrollbarClass: '',
 
 			// Zoom

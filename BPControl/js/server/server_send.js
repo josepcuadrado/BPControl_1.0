@@ -49,18 +49,18 @@ function server_send(){
 			estat();
 			
 			//pintem la grafica			
-			server_graph_taula();
+			server_graph_res();
 			
 			//creem resultats
 			ok(data.patientStatus);
 			
 			//tot correcte
-			navigator.notification.alert(
-				 		document.getElementById('server_send_mis').innerHTML,
-				 		null,
-				 		'BPControl',
-				 		'Done'
-						);	 
+			//navigator.notification.alert(
+			//	 		document.getElementById('server_send_mis').innerHTML,
+			//	 		null,
+			//	 		'BPControl',
+			//	 		'Done'
+			//			);	 
 		},
 		
 		error: function(){
