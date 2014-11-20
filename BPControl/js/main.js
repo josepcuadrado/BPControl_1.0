@@ -1,5 +1,11 @@
 //INICIALITZACIO
 
+$.ajaxSetup({
+	cache:false
+    });
+
+
+
 //control back button android
 	document.addEventListener("backbutton", function(e){
     if($.mobile.activePage.is('#perfil')){
