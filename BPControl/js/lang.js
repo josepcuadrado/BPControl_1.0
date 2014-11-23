@@ -235,10 +235,10 @@ function selMain(){
 		//start
 		"zp_txt":"Patient area",
 		//navbar
-		"mp":"morning",
-		"ma":"table",
-		"mg":"global",
-		"mf":"afternoon",
+		"mp":"Morning",
+		"ma":"Table",
+		"mg":"Global",
+		"mf":"Afternoon",
 		//navbar1
 		"mp1":"Centers",
 		"mg1":"Contact",
@@ -395,10 +395,10 @@ function selMain(){
 		//start
 		"zp_txt":"Area paciente",
 		//navbar
-		"mp":"mañana",
-		"ma":"tabla",
-		"mg":"global",
-		"mf":"tarde",
+		"mp":"Mañana",
+		"ma":"Tabla",
+		"mg":"Global",
+		"mf":"Tarde",
 		//navbar1
 		"mp1":"Centros",
 		"mg1":"Contacto",
