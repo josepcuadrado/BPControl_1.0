@@ -679,3 +679,6 @@ body.loading .modal {
 	background-image:linear-gradient(#fdfdfd,#eee);
 	}
 	
+.iframe_alto{
+	overflow: auto;
+	}
