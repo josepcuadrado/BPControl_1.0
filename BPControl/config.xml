@@ -81,7 +81,7 @@
 	
     <!-- Core plugins -->
 	
-	<gap:plugin name="org.apache.cordova.battery-status" version="0.2.7" />
+	 <gap:plugin name="org.apache.cordova.battery-status" version="0.2.7" />
     <gap:plugin name="org.apache.cordova.camera" version="0.2.9"  />
     <gap:plugin name="org.apache.cordova.media-capture" version="0.2.8"/>
     <gap:plugin name="org.apache.cordova.console" version="0.2.7" />
@@ -102,7 +102,7 @@
 	 <!--local notification plugins -->
 	<gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.4" />
 	<gap:plugin name="de.appplant.cordova.plugin.badge" version="0.5.3" />
-	
+
 
     <access origin="*"/>
 
