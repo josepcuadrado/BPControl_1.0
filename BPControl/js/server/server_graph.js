@@ -311,7 +311,7 @@ var token = localStorage.getItem('token');
 var d2=null, pul;
 var t15s6=null, t15d6=null, t30s6=null, t30d6=null, t15s8=null, t15d8=null, t30s8=null, t30d8=null;
 var sys6=null, sys8=null, systole=null, dia6=null, dia8=null, diastole=null, diastole1=null, systole1=null;
-$.getJSON('http://app2.hesoftgroup.eu/hypertensionBloodPressure/restListAll/'+ token, function(data){
+$.getJSON('http://app2.hesoftgroup.eu/hypertensionBloodPressure/restList/'+ token, function(data){
 	 var tabler ='<table id="taur" > ';
 	 tabler+='<thead><tr><th id="taur_th">' + document.getElementById('graf_ta_data').innerHTML + '</th><th id="taur_th">' + document.getElementById('graf_ta_si').innerHTML + '</th><th id="taur_th">' + document.getElementById('graf_ta_di').innerHTML + '</th><th id="taur_th">' + document.getElementById('graf_ta_p').innerHTML + '</th></tr></thead><tbody>';
 	 
